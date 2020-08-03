@@ -1,0 +1,1 @@
+Application for remote control of a presentation using a smartphone.
